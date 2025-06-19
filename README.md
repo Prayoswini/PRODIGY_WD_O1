@@ -16,4 +16,4 @@
 Created a navigation menu that changes style on scroll and hover using JavaScript.
 
 ## 🔗 GitHub Repository:
-[https://github.com/yourusername/PRODIGY_WD_01](https://github.com/yourusername/PRODIGY_WD_01)
+[https://github.com/Prayoswini/PRODIGY_WD_01](https://github.com/Prayoswini/PRODIGY_WD_01)
